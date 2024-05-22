@@ -10,8 +10,8 @@ This course is designed for beginners who want to start analyzing data with Pand
 
 ## Scenarios
 
-|   Index | Name                                           | Difficulty   | URL                                                                 |
-|---------|------------------------------------------------|--------------|---------------------------------------------------------------------|
+|   Index | Name                                          | Difficulty   | URL                                                                 |
+|---------|-----------------------------------------------|--------------|---------------------------------------------------------------------|
 |      01 | 📖 Your First Pandas Lab                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92727'>Start Lab</a> |
 |      02 | 📖 Working With Pandas                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65430'>Start Lab</a> |
 |      03 | 📖 Pandas Data Manipulation                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65431'>Start Lab</a> |
