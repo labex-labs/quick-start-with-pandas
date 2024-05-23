@@ -10,7 +10,7 @@ This course is designed for beginners who want to start analyzing data with Pand
 
 ## Scenarios
 
-|   Index | Name                                          | Difficulty   | URL                                                                 |
+|   Index | Name                                          | Difficulty   | Practice                                                            |
 |---------|-----------------------------------------------|--------------|---------------------------------------------------------------------|
 |      01 | 📖 Your First Pandas Lab                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92727'>Start Lab</a> |
 |      02 | 📖 Working With Pandas                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65430'>Start Lab</a> |
@@ -23,4 +23,9 @@ This course is designed for beginners who want to start analyzing data with Pand
 |      09 | 📖 Combining Data Tables in Pandas             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65437'>Start Lab</a> |
 |      10 | 📖 Handling Time Series Data                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65438'>Start Lab</a> |
 |      11 | 📖 Pandas Textual Data                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65439'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
 
