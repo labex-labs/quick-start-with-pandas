@@ -1,6 +1,6 @@
 # Quick Start with Pandas
 
-![Quick Start with Pandas](https://cover-creator.labex.io/quick-start-with-pandas.png)
+![Quick Start with Pandas](https://cover-creator.appbot.io/quick-start-with-pandas.png)
 
 This course is designed for beginners who want to start analyzing data with Pandas. It covers the basics of Pandas, including data structures, data manipulation, and data visualization.
 
