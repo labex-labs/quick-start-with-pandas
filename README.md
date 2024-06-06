@@ -26,7 +26,7 @@ This course is designed for beginners who want to start analyzing data with Pand
 
 ## More
 
-- 🔗 [Data Science Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Data Science Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
+- 🔗 [Pandas Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Pandas Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
 
