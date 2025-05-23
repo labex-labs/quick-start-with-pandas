@@ -32,21 +32,21 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 |   Index | Name                                              | Schwierigkeit   | Übung                                                                                                                              |
 |---------|---------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Ihr erstes Pandas-Lab                          | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/pandas-your-first-pandas-lab-92727'>Labor Starten</a>                       |
-|      02 | 📖 Arbeiten mit Pandas                            | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/python-working-with-pandas-65430'>Labor Starten</a>                         |
-|      03 | 📖 Pandas-Datenmanipulation                       | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/python-pandas-data-manipulation-65431'>Labor Starten</a>                    |
-|      04 | 📖 Datenauswahl in Pandas                         | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/python-data-selection-in-pandas-65432'>Labor Starten</a>                    |
-|      05 | 📖 Pandas Plotting für die Luftqualitätsanalyse   | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/python-pandas-plotting-for-air-quality-analysis-65433'>Labor Starten</a>    |
-|      06 | 📖 Arbeiten mit Spalten in Pandas                 | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/python-working-with-columns-in-pandas-65434'>Labor Starten</a>              |
-|      07 | 📖 Titanic-Passagierdatenanalyse mit Pandas       | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/python-titanic-passenger-data-analysis-with-pandas-65435'>Labor Starten</a> |
-|      08 | 📖 Datenumformung mit Pandas                      | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/python-reshaping-data-with-pandas-65436'>Labor Starten</a>                  |
-|      09 | 📖 Das Zusammenführen von DatenTabellen in Pandas | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/python-combining-data-tables-in-pandas-65437'>Labor Starten</a>             |
-|      10 | 📖 Zeitreihendaten verarbeiten                    | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/python-handling-time-series-data-65438'>Labor Starten</a>                   |
-|      11 | 📖 Pandas Textuelle Daten                         | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/python-pandas-textual-data-65439'>Labor Starten</a>                         |
+|      01 | 📖 Ihr erstes Pandas-Lab                          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/pandas-your-first-pandas-lab-92727'>Labor Starten</a>                       |
+|      02 | 📖 Arbeiten mit Pandas                            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/python-working-with-pandas-65430'>Labor Starten</a>                         |
+|      03 | 📖 Pandas-Datenmanipulation                       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/python-pandas-data-manipulation-65431'>Labor Starten</a>                    |
+|      04 | 📖 Datenauswahl in Pandas                         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/python-data-selection-in-pandas-65432'>Labor Starten</a>                    |
+|      05 | 📖 Pandas Plotting für die Luftqualitätsanalyse   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/python-pandas-plotting-for-air-quality-analysis-65433'>Labor Starten</a>    |
+|      06 | 📖 Arbeiten mit Spalten in Pandas                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/python-working-with-columns-in-pandas-65434'>Labor Starten</a>              |
+|      07 | 📖 Titanic-Passagierdatenanalyse mit Pandas       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/python-titanic-passenger-data-analysis-with-pandas-65435'>Labor Starten</a> |
+|      08 | 📖 Datenumformung mit Pandas                      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/python-reshaping-data-with-pandas-65436'>Labor Starten</a>                  |
+|      09 | 📖 Das Zusammenführen von DatenTabellen in Pandas | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/python-combining-data-tables-in-pandas-65437'>Labor Starten</a>             |
+|      10 | 📖 Zeitreihendaten verarbeiten                    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/python-handling-time-series-data-65438'>Labor Starten</a>                   |
+|      11 | 📖 Pandas Textuelle Daten                         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/python-pandas-textual-data-65439'>Labor Starten</a>                         |
 
 ## Mehr
 
-- 🔗 [Pandas Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Pandas Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
+- 🔗 [Pandas Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Pandas Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Pandas Kostenlose Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
 
