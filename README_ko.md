@@ -32,21 +32,21 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                           | 난이도   | 연습                                                                                                                           |
 |----------|------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Your First Pandas Lab                       | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/pandas-your-first-pandas-lab-92727'>실습 시작</a>                       |
-|       02 | 📖 Working with Pandas                         | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/python-working-with-pandas-65430'>실습 시작</a>                         |
-|       03 | 📖 Pandas Data Manipulation                    | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/python-pandas-data-manipulation-65431'>실습 시작</a>                    |
-|       04 | 📖 Data Selection in Pandas                    | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/python-data-selection-in-pandas-65432'>실습 시작</a>                    |
-|       05 | 📖 Pandas Plotting for Air Quality Analysis    | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/python-pandas-plotting-for-air-quality-analysis-65433'>실습 시작</a>    |
-|       06 | 📖 Working with Columns in Pandas              | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/python-working-with-columns-in-pandas-65434'>실습 시작</a>              |
-|       07 | 📖 Titanic Passenger Data Analysis with Pandas | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/python-titanic-passenger-data-analysis-with-pandas-65435'>실습 시작</a> |
-|       08 | 📖 Reshaping Data with Pandas                  | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/python-reshaping-data-with-pandas-65436'>실습 시작</a>                  |
-|       09 | 📖 Combining Data Tables in Pandas             | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/python-combining-data-tables-in-pandas-65437'>실습 시작</a>             |
-|       10 | 📖 Handling Time Series Data                   | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/python-handling-time-series-data-65438'>실습 시작</a>                   |
-|       11 | 📖 Pandas Textual Data                         | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/python-pandas-textual-data-65439'>실습 시작</a>                         |
+|       01 | 📖 Your First Pandas Lab                       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/pandas-your-first-pandas-lab-92727'>실습 시작</a>                       |
+|       02 | 📖 Working with Pandas                         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-working-with-pandas-65430'>실습 시작</a>                         |
+|       03 | 📖 Pandas Data Manipulation                    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-pandas-data-manipulation-65431'>실습 시작</a>                    |
+|       04 | 📖 Data Selection in Pandas                    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-data-selection-in-pandas-65432'>실습 시작</a>                    |
+|       05 | 📖 Pandas Plotting for Air Quality Analysis    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-pandas-plotting-for-air-quality-analysis-65433'>실습 시작</a>    |
+|       06 | 📖 Working with Columns in Pandas              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-working-with-columns-in-pandas-65434'>실습 시작</a>              |
+|       07 | 📖 Titanic Passenger Data Analysis with Pandas | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-titanic-passenger-data-analysis-with-pandas-65435'>실습 시작</a> |
+|       08 | 📖 Reshaping Data with Pandas                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-reshaping-data-with-pandas-65436'>실습 시작</a>                  |
+|       09 | 📖 Combining Data Tables in Pandas             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-combining-data-tables-in-pandas-65437'>실습 시작</a>             |
+|       10 | 📖 Handling Time Series Data                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-handling-time-series-data-65438'>실습 시작</a>                   |
+|       11 | 📖 Pandas Textual Data                         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-pandas-textual-data-65439'>실습 시작</a>                         |
 
 ## 더 보기
 
-- 🔗 [Pandas Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Pandas Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
+- 🔗 [Pandas 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Pandas 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Pandas 무료 튜토리얼](https://github.com/labex-labs/pandas-free-tutorials)
 
