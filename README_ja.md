@@ -14,6 +14,22 @@
 ![Python](https://img.shields.io/badge/Python-whitesmoke?style=for-the-badge&logo=python)
 
 
+## 演習
+
+|   インデックス | 名前                                                | 難易度   | 練習                                                                                                                            |
+|----------------|-----------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------|
+|             01 | 📖 🟢 あなたの最初の Pandas の実験                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/pandas-your-first-pandas-lab-92727'>ラボを開始</a>                       |
+|             02 | 📖 🟢 Pandas を使った作業                           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-working-with-pandas-65430'>ラボを開始</a>                         |
+|             03 | 📖 🟢 Pandas によるデータ操作                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-pandas-data-manipulation-65431'>ラボを開始</a>                    |
+|             04 | 📖 🟢 Pandas におけるデータ選択                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-data-selection-in-pandas-65432'>ラボを開始</a>                    |
+|             05 | 📖 🟢 空気質分析のための Pandas によるグラフ作成    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-pandas-plotting-for-air-quality-analysis-65433'>ラボを開始</a>    |
+|             06 | 📖 🟢 Pandas の列の操作                             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-working-with-columns-in-pandas-65434'>ラボを開始</a>              |
+|             07 | 📖 🟢 Pandas を使ったタイタニック号の乗客データ分析 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-titanic-passenger-data-analysis-with-pandas-65435'>ラボを開始</a> |
+|             08 | 📖 🟢 Pandas を使ったデータの整形                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-reshaping-data-with-pandas-65436'>ラボを開始</a>                  |
+|             09 | 📖 🟢 Pandas におけるデータテーブルの結合           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-combining-data-tables-in-pandas-65437'>ラボを開始</a>             |
+|             10 | 📖 🟢 時系列データの取り扱い                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-handling-time-series-data-65438'>ラボを開始</a>                   |
+|             11 | 📖 🟢 Pandas による文字列データ操作                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-pandas-textual-data-65439'>ラボを開始</a>                         |
+
 ## 環境
 
 LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。
@@ -24,25 +40,9 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 - ブラウザ内のインタラクティブなオンライン環境で、自動化されたステップバイステップのチェック機能。
 - スキルツリーベースのシステムによる構造化されたコンテンツ組織。
 - 30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソース。
-- ChatGPT を基盤とした AI 学習アシスタント Labby による対話型学習体験。
+- 最新の AI モデルを基盤とした学習アシスタント Labby による対話型学習体験。
 
 詳細について [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## 演習
-
-|   インデックス | 名前                                             | 難易度   | 練習                                                                                                                            |
-|----------------|--------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 あなたの最初の Pandas の実験                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/pandas-your-first-pandas-lab-92727'>ラボを開始</a>                       |
-|             02 | 📖 Pandas を使った作業                           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-working-with-pandas-65430'>ラボを開始</a>                         |
-|             03 | 📖 Pandas によるデータ操作                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-pandas-data-manipulation-65431'>ラボを開始</a>                    |
-|             04 | 📖 Pandas におけるデータ選択                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-data-selection-in-pandas-65432'>ラボを開始</a>                    |
-|             05 | 📖 空気質分析のための Pandas によるグラフ作成    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-pandas-plotting-for-air-quality-analysis-65433'>ラボを開始</a>    |
-|             06 | 📖 Pandas の列の操作                             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-working-with-columns-in-pandas-65434'>ラボを開始</a>              |
-|             07 | 📖 Pandas を使ったタイタニック号の乗客データ分析 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-titanic-passenger-data-analysis-with-pandas-65435'>ラボを開始</a> |
-|             08 | 📖 Pandas を使ったデータの整形                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-reshaping-data-with-pandas-65436'>ラボを開始</a>                  |
-|             09 | 📖 Pandas におけるデータテーブルの結合           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-combining-data-tables-in-pandas-65437'>ラボを開始</a>             |
-|             10 | 📖 時系列データの取り扱い                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-handling-time-series-data-65438'>ラボを開始</a>                   |
-|             11 | 📖 Pandas による文字列データ操作                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-pandas-textual-data-65439'>ラボを開始</a>                         |
 
 ## その他
 
