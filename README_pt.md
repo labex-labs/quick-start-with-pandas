@@ -14,6 +14,22 @@ Este curso foi projetado para iniciantes que desejam começar a analisar dados c
 ![Python](https://img.shields.io/badge/Python-whitesmoke?style=for-the-badge&logo=python)
 
 
+## Exercícios
+
+|   Índice | Nome                                                        | Dificuldade   | Prática                                                                                                                          |
+|----------|-------------------------------------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🟢 Seu Primeiro Laboratório Pandas                       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/pandas-your-first-pandas-lab-92727'>Iniciar Lab</a>                       |
+|       02 | 📖 🟢 Trabalhando com Pandas                                | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-working-with-pandas-65430'>Iniciar Lab</a>                         |
+|       03 | 📖 🟢 Manipulação de Dados com Pandas                       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-pandas-data-manipulation-65431'>Iniciar Lab</a>                    |
+|       04 | 📖 🟢 Seleção de Dados em Pandas                            | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-data-selection-in-pandas-65432'>Iniciar Lab</a>                    |
+|       05 | 📖 🟢 Plotagem com Pandas para Análise da Qualidade do A... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-pandas-plotting-for-air-quality-analysis-65433'>Iniciar Lab</a>    |
+|       06 | 📖 🟢 Trabalhando com Colunas no Pandas                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-working-with-columns-in-pandas-65434'>Iniciar Lab</a>              |
+|       07 | 📖 🟢 Análise de Dados de Passageiros do Titanic com Pan... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-titanic-passenger-data-analysis-with-pandas-65435'>Iniciar Lab</a> |
+|       08 | 📖 🟢 Remodelando Dados com Pandas                          | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-reshaping-data-with-pandas-65436'>Iniciar Lab</a>                  |
+|       09 | 📖 🟢 Combinando Tabelas de Dados em Pandas                 | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-combining-data-tables-in-pandas-65437'>Iniciar Lab</a>             |
+|       10 | 📖 🟢 Manipulação de Dados de Séries Temporais              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-handling-time-series-data-65438'>Iniciar Lab</a>                   |
+|       11 | 📖 🟢 Dados Textuais com Pandas                             | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-pandas-textual-data-65439'>Iniciar Lab</a>                         |
+
 ## Ambiente
 
 LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos.
@@ -24,25 +40,9 @@ LabEx é uma plataforma de aprendizagem interativa e prática dedicada à progra
 - Ambientes online interativos no navegador, com verificações automatizadas passo a passo.
 - Uma organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades.
 - Um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios.
-- O assistente de aprendizagem de IA Labby, construído sobre ChatGPT, fornecendo uma experiência de aprendizagem conversacional.
+- O assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
 
 Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Exercícios
-
-|   Índice | Nome                                           | Dificuldade   | Prática                                                                                                                          |
-|----------|------------------------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Your First Pandas Lab                       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/pandas-your-first-pandas-lab-92727'>Iniciar Lab</a>                       |
-|       02 | 📖 Working with Pandas                         | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-working-with-pandas-65430'>Iniciar Lab</a>                         |
-|       03 | 📖 Pandas Data Manipulation                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-pandas-data-manipulation-65431'>Iniciar Lab</a>                    |
-|       04 | 📖 Data Selection in Pandas                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-data-selection-in-pandas-65432'>Iniciar Lab</a>                    |
-|       05 | 📖 Pandas Plotting for Air Quality Analysis    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-pandas-plotting-for-air-quality-analysis-65433'>Iniciar Lab</a>    |
-|       06 | 📖 Working with Columns in Pandas              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-working-with-columns-in-pandas-65434'>Iniciar Lab</a>              |
-|       07 | 📖 Titanic Passenger Data Analysis with Pandas | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-titanic-passenger-data-analysis-with-pandas-65435'>Iniciar Lab</a> |
-|       08 | 📖 Reshaping Data with Pandas                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-reshaping-data-with-pandas-65436'>Iniciar Lab</a>                  |
-|       09 | 📖 Combining Data Tables in Pandas             | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-combining-data-tables-in-pandas-65437'>Iniciar Lab</a>             |
-|       10 | 📖 Handling Time Series Data                   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-handling-time-series-data-65438'>Iniciar Lab</a>                   |
-|       11 | 📖 Pandas Textual Data                         | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-pandas-textual-data-65439'>Iniciar Lab</a>                         |
 
 ## Mais
 
